@@ -1,7 +1,5 @@
 # Fibonacciho posloupnost čísel
 
-## Definice
-
 Jako Fibonacciho posloupnost je v matematice označována nekonečná posloupnost přirozených čísel, začínající 0, 1, 1, 2, 3, 5, 8, 13, 21, 34… (čísla nacházející se ve Fibonacciho posloupnosti jsou někdy nazývána Fibonacciho čísla), kde každé číslo je součtem dvou předchozích. Rekurzivní definice Fibonacciho posloupnosti tedy je:
 
 - fib(n) = `n` když n <= 1
@@ -16,3 +14,8 @@ Jako Fibonacciho posloupnost je v matematice označována nekonečná posloupnos
 ## Zadání
 
 Napište funkci, která spočítá Fibonacciho čísla dle na vstupu zadaného n. Snažte se vytvořit program, který bude jak operačně, tak paměťově nenáročný.
+
+## Zdroje
+
+- [Wiki - Fibonacciho posloupnost
+  ](https://cs.wikipedia.org/wiki/Fibonacciho_posloupnost)

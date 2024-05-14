@@ -12,5 +12,5 @@ def fib(n):
 
 
 n = 35
-print("Nerekurzivní řešení:\t", fib(n))
-print("Rekurzivní řešení:\t", fibrek(n))
+print("Nerekurzivní řešení: ", fib(n))
+print("Rekurzivní řešení  : ", fibrek(n))

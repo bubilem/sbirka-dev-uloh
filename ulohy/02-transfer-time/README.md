@@ -1,7 +1,5 @@
 # Přenosová doba v síti
 
-## Definice
-
 Mějme počítačovou síť, která má danou stabilní rychlost. Tato rychlost se jednotně udává v Mbps (Mb/s, milión bitů za sekundu). Určuje nám tedy, kolik miliónů bitů se přenese za jednu sekundu.
 
 Také mějme soubor se zadanou velikostí. Velikost souboru se může zadat pomocí jednotek B, KiB, MiB nebo GiB. Kde: 1 KiB = 1024 B, 1 MiB = 1024 KiB, 1GiB = 1024 B. Nezapoměňte také na rozdíl jednotek B (byte) a b (bit), kde platí 1 B = 8 b.
