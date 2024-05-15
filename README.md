@@ -10,3 +10,4 @@ V tomto repositáři naleznete mnoho zadání různých úloh k procvičování 
 6. [Caesarova šifra](ulohy/06-caesarova-sifra)
 7. [Minové pole](ulohy/07-minefield)
 8. [Bublinkové řazení](ulohy/08-bubble-sort)
+9. [Tonda staví sněhuláky](ulohy/09-snehulaci)
