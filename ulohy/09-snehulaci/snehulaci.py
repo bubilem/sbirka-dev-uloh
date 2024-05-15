@@ -18,8 +18,8 @@ for actual_h in range(0, 3000, 100):
 
 # ještě připočtu sněhuláka, který stojí přímo na špičce hory
 celkovy_pocet_snehulaku += 1
-# k tomu adekvátně čas a také poslední zasloužený odpočinek s výhledem na sněhuláky
-celkovy_cas += 30 + 60
+# k tomu adekvátně čas na postavení posledního sněhuláka
+celkovy_cas += 30
 
 print(f"Celkový počet sněhuláků: {celkovy_pocet_snehulaku}")
 print(f"Celkový čas: {celkovy_cas/(60*24):.1f} dnů")
