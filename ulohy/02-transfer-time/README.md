@@ -8,10 +8,10 @@ nápověda: _Vzpoměňte si na vzoreček z fyziky ze ZŠ: v = s / t._
 
 ## Zadání
 
-Napište funkci `transfer_time`, která spočítá dobu, za kterou se zadaý soubor přenese po zadané síti. Na vstupu funkce bude soubor a rychlost sítě. Soubor je zadán jako slovník např: `file = {"size": 80, "unit": "KiB"}`, kde se jedná o soubor 80 KiB. Rychlost sítě je v MiB.
+Napište funkci `transfer_time`, která spočítá dobu, za kterou se zadaný soubor přenese po zadané síti. Na vstupu funkce bude soubor a rychlost sítě. Soubor je zadán jako slovník např: `file = {"size": 80, "unit": "KiB"}`, kde se jedná o soubor 80 KiB. Rychlost sítě je v Mbps, například `100`.
 
 K problematice naimplementujte nějaké hezké lidské zobrazování času. Tedy například pro čas `0.00002347 s` by se mohl zobrazovat jako `23.47 microsecond`.
 
 ## Výsledek ke kontrole
 
-Pro soubor `80 KiB` nám náš program vypíše `6.554 miliseconds`.
+Pro soubor `80 KiB` a rychlost sítě `100 Mbps` nám náš program vypíše `6.554 miliseconds`.
